@@ -1,0 +1,27 @@
+[
+    {
+        "teoria": "Ley de Coulomb",
+        "descripcion": "La fuerza de interacción entre dos cargas puntuales es directamente proporcional al producto de las magnitudes de las cargas e inversamente proporcional al cuadrado de la distancia entre ellas.",
+        "ejemplo": "Cuando frotas un globo contra tu cabello y luego lo acercas a una pared, el globo se adhiere a la pared debido a la atracción entre las cargas generadas por el frotamiento."
+    },
+    {
+        "teoria": "Ley de Faraday",
+        "descripcion": "Un cambio en el flujo magnético a través de un circuito cerrado induce una corriente eléctrica en él.",
+        "ejemplo": "Cuando enciendes una linterna con pilas, la corriente eléctrica se genera gracias a la variación del flujo magnético dentro del circuito."
+    },
+    {
+        "teoria": "Ley de Ampère",
+        "descripcion": "La corriente eléctrica genera un campo magnético a su alrededor. La dirección del campo es determinada por la regla de la mano derecha.",
+        "ejemplo": "Cuando enciendes una parrilla eléctrica, la corriente fluye a través de las resistencias y genera un campo magnético alrededor de ellas."
+    },
+    {
+        "teoria": "Ley de Gauss",
+        "descripcion": "El flujo eléctrico a través de una superficie cerrada es proporcional a la carga neta dentro de esa superficie.",
+        "ejemplo": "En un globo cargado electrostáticamente, la carga se distribuye de manera uniforme por la superficie del globo, generando un campo eléctrico hacia afuera."
+    },
+    {
+        "teoria": "Ecuaciones de Maxwell",
+        "descripcion": "Son un conjunto de ecuaciones que describen cómo los campos eléctricos y magnéticos interactúan con la materia y con las cargas.",
+        "ejemplo": "El funcionamiento de un microondas, que genera un campo electromagnético de alta frecuencia para calentar los alimentos, está explicado por las ecuaciones de Maxwell."
+    }
+]
